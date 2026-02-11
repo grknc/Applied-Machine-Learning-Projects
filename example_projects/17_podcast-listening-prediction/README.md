@@ -11,6 +11,7 @@ This project predicts podcast listening behavior. You can model either whether a
 
 ## 3) Suggested Datasets
 - **Podcast interaction logs (public or synthetic):** Episode plays, skips, and completion events.
+  https://www.kaggle.com/competitions/playground-series-s5e4/overview
 - **User preference datasets:** Genre interests, show subscriptions, and listening frequency.
 - **Session-level behavior data:** Time of day, device type, and recent listening history.
 
