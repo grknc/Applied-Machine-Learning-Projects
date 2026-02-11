@@ -11,6 +11,7 @@ This project predicts daily calorie intake or calorie burn for a person. It is a
 
 ## 3) Suggested Datasets
 - **Kaggle calorie and exercise datasets:** Common public options with user and activity features.
+  https://www.kaggle.com/competitions/playground-series-s5e5/overview
 - **Fitness tracker exports (sample or synthetic):** Steps, heart rate, and exercise duration.
 - **Nutrition log datasets:** Daily meal and calorie records linked with basic demographics.
 
