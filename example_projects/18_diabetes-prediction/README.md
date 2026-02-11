@@ -11,6 +11,7 @@ This project predicts diabetes risk using medical and health-related features. I
 
 ## 3) Suggested Datasets
 - **Pima Indians Diabetes Dataset:** A standard benchmark dataset for diabetes classification.
+  https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 - **UCI diabetes-related datasets:** Additional structured medical features for practice.
 - **Hospital or clinic sample data (de-identified):** Local-use datasets when available.
 
