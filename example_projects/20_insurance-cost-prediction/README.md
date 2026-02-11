@@ -11,6 +11,7 @@ This project predicts insurance charges or premiums for customers. It is a regre
 
 ## 3) Suggested Datasets
 - **Medical Cost Personal Dataset (Kaggle):** Includes age, BMI, smoking status, and region.
+  https://www.kaggle.com/competitions/playground-series-s4e12/overview
 - **Insurance customer sample datasets:** Public tabular datasets with policyholder attributes.
 - **Synthetic insurance pricing data:** Useful for controlled experiments.
 
