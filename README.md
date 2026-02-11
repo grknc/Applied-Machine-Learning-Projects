@@ -1,4 +1,4 @@
-# ml-project-template
+# Machine Learning Project Template & Industry-Based Examples
 
 A complete starter template for Machine Learning bootcamp projects.
 
