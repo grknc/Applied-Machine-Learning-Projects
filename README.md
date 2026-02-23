@@ -1,4 +1,4 @@
-# Machine Learning Project Hub: 25 Industry-Based  Projects
+# Machine Learning Project Template: 25 Industry-Based  Projects
 
 A comprehensive collection of real-world Machine Learning projects across 25 industries for bootcamp participants.
 
@@ -11,7 +11,7 @@ A comprehensive collection of real-world Machine Learning projects across 25 ind
 
 ## Repository Purpose
 
-This repository is a **reference hub** with 25 real-world, classical ML example projects across different industries and problem types. Review these projects to understand how different industry domains approach Machine Learning problems, then apply the same patterns to your own bootcamp project.
+This repository is a **reference template** with 25 real-world, classical ML example projects across different industries and problem types. Review these projects to understand how different industry domains approach Machine Learning problems, then apply the same patterns to your own bootcamp project.
 
 ---
 
