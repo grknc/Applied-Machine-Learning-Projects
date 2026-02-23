@@ -1,11 +1,15 @@
-# Machine Learning Project Template: 25 Industry-Based  Projects
+# Machine Learning Project Template: Industry-Based  Projects
 
-A comprehensive collection of real-world Machine Learning projects across 25 industries for bootcamp participants.
+A comprehensive collection of real-world Machine Learning projects across industries for bootcamp participants.
+
+![ML Projects](https://www.theinformationlab.es/wp-content/uploads/2022/09/shutterstock_2284126663-scaled.jpg)
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python%203.8%2B-blue)](https://www.python.org)
 [![Projects](https://img.shields.io/badge/Projects-25%20Examples-brightgreen)](example_projects/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
+
+
 
 ---
 
